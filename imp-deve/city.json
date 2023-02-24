@@ -1,0 +1,1006 @@
+[
+  {
+    "state_name": "Punjab",
+    "name": "Attock"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Bahawalnagar"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Bahawalpur"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Bhakkar"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Chakwal"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Chiniot"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Dera Ghazi Khan"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Faisalabad"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Gujranwala"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Gujrat"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Hafizabad"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Jhang"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Jhelum"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Kasur"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Khanewal"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Khushab"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Lahore"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Layyah"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Lodhran"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Mandi Bahauddin"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Mianwali"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Multan"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Muzaffargarh"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Nankana Sahib"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Narowal"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Okara"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Pakpattan"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Rahim Yar Khan"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Rajanpur"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Rawalpindi"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Sahiwal"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Sargodha"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Sheikhupura"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Sialkot"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Toba Tek Singh"
+  },
+  {
+    "state_name": "Punjab",
+    "name": "Vehari"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Karachi"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Hyderabad"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Sukkur"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Larkana"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Mirpur Khas"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Nawabshah"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Jacobabad"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Shikarpur"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Tando Adam"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Khairpur"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Dadu"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Ghotki"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Badin"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Thatta"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Sanghar"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Matiari"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Jamshoro"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Umerkot"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Kashmore"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Tharparkar"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Naushahro Feroze"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Tando Allahyar"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Shaheed Benazirabad (Nawabshah)"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Qambar Shahdadkot"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Sujawal"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Tharparkar"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Mithi"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Islamkot"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Nagarparkar"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Kandhkot"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Sohbatpur"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Karachi South"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Karachi East"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Karachi West"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Karachi Central"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Korangi"
+  },
+  {
+    "state_name": "Sindh",
+    "name": "Malir"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Peshawar"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Abbottabad"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Mardan"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Swabi"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Swat"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Charsadda"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Nowshera"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Kohat"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Bannu"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Haripur"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Mansehra"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Dera Ismail Khan"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Mingora"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Batkhela"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Takht-i-Bahi"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Jamrud"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Landi Kotal"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Hangu"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Tank"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Timergara"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Chitral"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Upper Dir"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Lower Dir"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Shangla"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Kohistan"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Karak"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Lakki Marwat"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Buner"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Malakand"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Gadoon Amazai"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Thall"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Shahbaz Garhi"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Shabqadar"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Matta"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Daggar"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Baffa"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Dargai"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Alpuri"
+  },
+  {
+    "state_name": "Khyber Pakhtunkhwa",
+    "name": "Parachinar"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Quetta"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Gwadar"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Khuzdar"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Chaman"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Turbat"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Sibi"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Nushki"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Kalat"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Mastung"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Kharan"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Lasbela"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Pishin"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Zhob"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Dera Bugti"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Jaffarabad"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Hub"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Killa Abdullah"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Panjgur"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Kech"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Washuk"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Musakhel"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Ziarat"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Awaran"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Barkhan"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Qila Saifullah"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Kohlu"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Sherani"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Loralai"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Duki"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Gwadar Port"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Harnai"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Naseerabad"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Sui"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Usta Mohammad"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Chagai"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Dalbandin"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Killa Saifullah"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Killa Abdulloah"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Dera Murad Jamali"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Mach"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Turbat"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Zhob"
+  },
+  {
+    "state_name": "Balochistan",
+    "name": "Gwadar Port"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Rawalpindi"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Chak Shahzad"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Bani Gala"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Bhara Kahu"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Tarnol"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Tarlai Kalan"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Golra Sharif"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Nilore"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Margalla Hills"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Saidpur"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "D-12"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "D-17"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "G-11"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "G-13"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "E-11"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "F-10"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "F-11"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "G-7"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "G-8"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "G-9"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "I-8"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "I-9"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "I-10"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "H-11"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "H-8"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "H-9"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Park View City"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Pakistan Town"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "Soan Gardens"
+  },
+  {
+    "state_name": "Islamabad",
+    "name": "River Gardens."
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Muzaffarabad (the capital city)"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Mirpur"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Bhimber"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Kotli"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Rawalakot"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Bagh"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Sudhanoti"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Pallandri"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Athmuqam"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Haveli"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Tattapani"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Kahuta"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Abbaspur"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Chakothi"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Charhoi"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Forward Kahuta"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Hajira"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Khuiratta"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Leepa"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Neelum"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Sehnsa"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Bagh District"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Poonch District"
+  },
+  {
+    "state_name": "Azad Kashmir",
+    "name": "Sudhnoti District."
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Gilgit (the capital city)"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Skardu"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Ghanche"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Kharmang"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Shigar"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Ghizer"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Hunza-Nagar"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Astore"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Diamer"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Nagar"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Gupis-Yasin"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Punial"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Chilas"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Ishkoman"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Gupis"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Rondu"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Khaplu"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Aliabad"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Sost"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Gulmit"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Passu"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Shimshal"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Misgar"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Hundur"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Shiskat"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Chilam"
+  },
+  {
+    "state_name": "Gilgit Baltistan",
+    "name": "Phunder."
+  },
+  {
+    "state_name": "FATA",
+    "name": "Khyber District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Mohmand District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Bajaur District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "North Waziristan District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "South Waziristan District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Kurram District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Orakzai District"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Darra Adam Khel"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Mir Ali"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Miramshah"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Razmak"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Wana"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Parachinar"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Jamrud"
+  },
+  {
+    "state_name": "FATA",
+    "name": "Landi Kotal."
+  }
+]
